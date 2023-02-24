@@ -1,2 +1,2 @@
 # demo learning github
-# there are few changes need to be done
+There are few changes need to be done
